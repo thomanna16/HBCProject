@@ -3,8 +3,10 @@ HBCProject
 
 Note:
 
-The user add url in this project
-http://localhost:8080/sample/user/add/<name>
+The user add url in this project,
+
+http://localhost:8080/sample/user/add/<name>,
+
 is written as a GET mehod, as the requirement mandates the arguement should be passed with the url.
 However, this should be ideally implemented as a POST request. 
 
