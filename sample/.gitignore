@@ -1,0 +1,35 @@
+
+.metadata
+.gradle
+bin/
+.classpath
+.factorypath
+.project
+target/*
+test-output/*
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath\
+
+# External tool builders
+.externalToolBuilders/
+
+# Locally stored "Eclipse launch configurations
+*.launch
+
+# CDT-specific
+.cproject
+
+# PDT-specific\par
+.buildpath\par
+\par
+# sbteclipse plugin 
+.target
+
+
+ 
