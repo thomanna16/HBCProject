@@ -6,7 +6,7 @@ Please do the following steps to build this project
 
     git clone https://github.com/thomanna16/HBCProject.git
     
-2. goto sample folder and execute maven package command
+2. Goto sample folder and execute maven package command
  
     cd sample
 
@@ -14,7 +14,7 @@ Please do the following steps to build this project
   
    This will create sample.war file in sample/target folder
   
-3. deploy the generated sample.war file into Tomcat
+3. Deploy the generated sample.war file into Tomcat
  
   
 
